@@ -1,0 +1,166 @@
+{
+
+    "workplaces": [
+    
+        {
+            "what": "DJ",
+            "when": "2016- pågående",
+            "where": "Bad Reputation DJs, To The Rescue, Heartbeats",
+            "completed" : false
+             },
+    
+          {
+            "what": "Avdelningsansvarig F&G",
+            "when": "2020- pågående",
+            "where" : "Hemköp Matglädjen",
+            "completed" : false
+          },
+    
+          {
+             "what": "Avdelningsansvarig F&G",
+             "when": "2017-2020",
+             "where" : "Hemköp Mörby Centrum",
+             "completed" : true
+         },
+
+         {
+            "what": "Avdelningsansvarig F&G",
+            "when": "2012-2017",
+            "where": "Hemköp Birger Jarl",
+            "completed": true
+         },
+        
+
+         {
+            "what": "Arbetsledare, jouransvarig, postansvarig",
+            "when": "2005- 2012",
+            "where": "Ica Bagarmossen",
+            "completed": true
+         },
+
+         {
+            "what": "Butiksbiträde",
+            "when": "2005",
+            "where": "Konsum Hornstull/ Konsum Midsommarkransen",
+            "completed": true
+        },
+
+        {
+            "what": "Butiksbiträde",
+            "when": "2001-2005",
+            "where": "Konsum Sjuntorp",
+            "completed": true
+        },
+
+        {
+            "what": "Vikarie inom barnomsorg",
+            "when": "2000-2001",
+            "where": "Trollhättans Vikarecentral",
+            "completed": true
+        },
+
+        {
+            "what": "Parkförvaltare, sommararbete",
+            "when": "1999, 2000",
+            "where": "Trollhättans Kommun, depå Sjuntorp",
+            "completed": true
+            },
+
+
+         {
+            "what": "Butiksbiträde, sommararbete",
+            "when": "1997",
+            "where": "Konsum Sjuntorp",
+            "completed": true
+         }
+         ],
+    
+   
+    
+        "schools": [
+
+
+        {
+                "what": "Frontendutveckling för mobil och webb",
+                "when": "HT22- VT24",
+                "where" : "Chas Academy",
+                "completed" : false
+         },
+
+         {
+                "what": "Webbutveckling2",
+                "when": "HT2022",
+                "where" : "Malmö Universitet",
+                "completed" : false
+        },
+    
+         {
+           "what": "Webbutveckling1",
+           "when": "VT2022",
+           "where" : "Luleå Tekniska Universitet",
+           "completed" : true
+         },
+    
+         {
+           "what": "1968-Protesternas tid",
+           "when": "VT2020",
+           "where" : "LinnéUniversitetet Växjö",
+           "completed" : true
+         },
+
+         {
+            "what": "Genusvetenskaplig medieanalys",
+            "when": "HT2003",
+            "where" : "Malmö Högskola",
+            "completed" : true
+          },
+
+          {
+            "what": "Multimedia, Webbdesign1, BildA",
+            "when": "VT2002",
+            "where" : "Komvux Trollhättan",
+            "completed" : true
+          },
+          {
+            "what": "Samhällsvetenskapligt gymnasieprogram",
+            "when": "HT1997-VT2000",
+            "where" : "Magnus Åbergs Gymnasiet, Trollhättan",
+            "completed" : true
+          }
+    
+    
+    ],
+
+    "others": [
+    
+        {
+          "what": "Praktik",
+          "when": "1997",
+          "where" : "Mediemagasinet M15, Trollhättan",
+          "completed" : true
+        },
+   
+        {
+          "what": "Praktik",
+          "when": "2000",
+          "where" : "Kafé 44, Stockholm",
+          "completed" : true
+        },
+
+
+        {
+            "what": "Studiecirkelledare",
+            "when": "1997-2005",
+            "where" : "NBV, Trollhättan",
+            "completed" : true
+          }
+
+
+   
+   
+   
+   ]
+
+}
+        
+    
